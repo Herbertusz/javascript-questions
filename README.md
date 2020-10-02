@@ -22,7 +22,7 @@ Dave3: 19, 34, 38, 52, 54, 63, 65, 91, 105, 113, 138, 3, 11, 12, 33, 53, 82, 152
 
 ---
 
-1. What's the output?
+##### 1. What's the output?
 
 ```javascript
 function sayHi() {
@@ -40,7 +40,6 @@ sayHi();
 - C: `ReferenceError` and `21`
 - D: `undefined` and `ReferenceError`
 
-<details><summary><b>Answer</b></summary>
 <p>
 
 #### Answer: D
